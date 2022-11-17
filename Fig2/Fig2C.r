@@ -3,6 +3,7 @@ library(ggridges)
 library(reshape2)
 
 avg = readRDS('l2cpmavg_15Sept.rds')  #log2cpm avg cell type data
+#To generate this object, use gene sets for cell types and average it across all the spots in spatial data
 colnames(avg) = gsub('CD8_6_1_3', 'CD8_TRM', colnames(avg))
 meta = read.csv('meta_16Sept.csv', row.names = 1) #spatial meta data
 identical(rownames(meta), rownames(avg))
