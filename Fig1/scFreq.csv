@@ -1,0 +1,161 @@
+sample,celltype,value
+SNU17,DC,71
+SNU17,endothelial,0
+SNU17,granulocyte,115
+SNU17,lymphocyte,314
+SNU17,macrophage,585
+SNU17,microglia,4398
+SNU17,monocyte,48
+SNU17,oligodendrocyte,301
+SNU17,stromal cell,0
+SNU17,tumor cell,892
+SNU18,DC,84
+SNU18,endothelial,5
+SNU18,granulocyte,51
+SNU18,lymphocyte,298
+SNU18,macrophage,281
+SNU18,microglia,4203
+SNU18,monocyte,38
+SNU18,oligodendrocyte,60
+SNU18,stromal cell,3
+SNU18,tumor cell,610
+SNU21,DC,4
+SNU21,endothelial,3
+SNU21,granulocyte,190
+SNU21,lymphocyte,104
+SNU21,macrophage,59
+SNU21,microglia,719
+SNU21,monocyte,13
+SNU21,oligodendrocyte,191
+SNU21,stromal cell,5
+SNU21,tumor cell,1394
+SNU23,DC,15
+SNU23,endothelial,4
+SNU23,granulocyte,24
+SNU23,lymphocyte,253
+SNU23,macrophage,32
+SNU23,microglia,2927
+SNU23,monocyte,37
+SNU23,oligodendrocyte,215
+SNU23,stromal cell,7
+SNU23,tumor cell,25
+SNU24,DC,97
+SNU24,endothelial,0
+SNU24,granulocyte,54
+SNU24,lymphocyte,629
+SNU24,macrophage,541
+SNU24,microglia,2989
+SNU24,monocyte,52
+SNU24,oligodendrocyte,48
+SNU24,stromal cell,0
+SNU24,tumor cell,355
+SNU25,DC,42
+SNU25,endothelial,1
+SNU25,granulocyte,65
+SNU25,lymphocyte,445
+SNU25,macrophage,725
+SNU25,microglia,1996
+SNU25,monocyte,72
+SNU25,oligodendrocyte,84
+SNU25,stromal cell,3
+SNU25,tumor cell,1117
+SNU27,DC,57
+SNU27,endothelial,6
+SNU27,granulocyte,466
+SNU27,lymphocyte,543
+SNU27,macrophage,443
+SNU27,microglia,7935
+SNU27,monocyte,62
+SNU27,oligodendrocyte,1686
+SNU27,stromal cell,14
+SNU27,tumor cell,2689
+SNU33,DC,113
+SNU33,endothelial,2
+SNU33,granulocyte,91
+SNU33,lymphocyte,872
+SNU33,macrophage,241
+SNU33,microglia,10176
+SNU33,monocyte,174
+SNU33,oligodendrocyte,1503
+SNU33,stromal cell,25
+SNU33,tumor cell,666
+SNU34,DC,46
+SNU34,endothelial,11
+SNU34,granulocyte,158
+SNU34,lymphocyte,382
+SNU34,macrophage,197
+SNU34,microglia,7317
+SNU34,monocyte,76
+SNU34,oligodendrocyte,344
+SNU34,stromal cell,10
+SNU34,tumor cell,4147
+SNU38,DC,0
+SNU38,endothelial,3
+SNU38,granulocyte,329
+SNU38,lymphocyte,73
+SNU38,macrophage,0
+SNU38,microglia,2152
+SNU38,monocyte,56
+SNU38,oligodendrocyte,605
+SNU38,stromal cell,0
+SNU38,tumor cell,36
+SNU40,DC,23
+SNU40,endothelial,19
+SNU40,granulocyte,368
+SNU40,lymphocyte,286
+SNU40,macrophage,133
+SNU40,microglia,11713
+SNU40,monocyte,242
+SNU40,oligodendrocyte,1276
+SNU40,stromal cell,15
+SNU40,tumor cell,700
+SNU43,DC,19
+SNU43,endothelial,1
+SNU43,granulocyte,107
+SNU43,lymphocyte,412
+SNU43,macrophage,527
+SNU43,microglia,1250
+SNU43,monocyte,64
+SNU43,oligodendrocyte,144
+SNU43,stromal cell,0
+SNU43,tumor cell,881
+SNU46,DC,15
+SNU46,endothelial,5
+SNU46,granulocyte,62
+SNU46,lymphocyte,181
+SNU46,macrophage,163
+SNU46,microglia,3651
+SNU46,monocyte,61
+SNU46,oligodendrocyte,1767
+SNU46,stromal cell,0
+SNU46,tumor cell,3639
+SNU51,DC,32
+SNU51,endothelial,9
+SNU51,granulocyte,1959
+SNU51,lymphocyte,700
+SNU51,macrophage,551
+SNU51,microglia,9191
+SNU51,monocyte,335
+SNU51,oligodendrocyte,2891
+SNU51,stromal cell,43
+SNU51,tumor cell,1213
+SNU19,DC,0
+SNU19,endothelial,0
+SNU19,granulocyte,0
+SNU19,lymphocyte,0
+SNU19,macrophage,0
+SNU19,microglia,0
+SNU19,monocyte,0
+SNU19,oligodendrocyte,0
+SNU19,stromal cell,0
+SNU19,tumor cell,0
+SNU22,DC,0
+SNU22,endothelial,0
+SNU22,granulocyte,0
+SNU22,lymphocyte,0
+SNU22,macrophage,0
+SNU22,microglia,0
+SNU22,monocyte,0
+SNU22,oligodendrocyte,0
+SNU22,stromal cell,0
+SNU22,tumor cell,0

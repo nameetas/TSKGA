@@ -1,0 +1,18 @@
+,order,slides,Gender,Age,Diagnosis,IDH1_mutation,1p_19q,EGFR_amplification,9p21_CDKN2A_CDKN2B_deletion,10q23_PTEN_locus_deletion,ATRX_mutation,TERTp_mutation,TP53_mutation,BRAF_mutation,PDGFRA_amplification,RB1_mutation,RB1_deletion,NF1_mutation,NF1_deletion,NF2_deletion,PTEN_mutation,Ki67%,MGMT_methylation_status
+SNU19,1,1,Male,66,"Ast, IDHm, G3",mutant,no-deletion,absent,absent,absent,wildtype,wildtype,mutant,wildtype,absent,wildtype,absent,wildtype,absent,absent,absent,8,methylated
+SNU22,2,1,Female,40,"Ast, IDHm, G3",mutant,no-deletion,absent,hemizygous deletion,hemizygous deletion,VUS,wildtype,mutant,wildtype,absent,wildtype,absent,wildtype,absent,absent,absent,5.4,methylated
+SNU40,3,1,Female,37,"Ast, IDHm, G4",mutant,no-deletion,absent,absent,hemizygous deletion,mutant,wildtype,mutant,wildtype,absent,wildtype,hemizygous deletion,wildtype,absent,absent,absent,11.8,methylated
+SNU38,4,1,Male,27,Central neurocytoma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SNU16,5,2,Female,82,Glioblastoma,wildtype,19q only deleted,absent,homozygous deletion,hemizygous deletion,wildtype,mutant,mutant,wildtype,absent,wildtype,hemizygous deletion,wildtype,absent,absent,absent,75.8,unmethylated
+SNU34,7,1,Female,66,Glioblastoma,wildtype,19q only deleted,absent,homozygous deletion,hemizygous deletion,wildtype,wildtype,mutant,wildtype,amplification,wildtype,hemizygous deletion,wildtype,absent,absent,absent,54,methylated
+SNU46,8,2,Female,63,Glioblastoma,wildtype,19q only deleted,amplification,homozygous deletion,hemizygous deletion,wildtype,mutant,wildtype,wildtype,absent,wildtype,absent,wildtype,absent,hemizygous deletion,mutant,61.6,unmethylated
+SNU17,10,2,Male,64,Glioblastoma,wildtype,no-deletion,absent,hemizygous deletion,hemizygous deletion,wildtype,mutant,wildtype,wildtype,absent,wildtype,hemizygous deletion,mutant,absent,absent,mutant,18.2,methylated
+SNU24,12,2,Female,73,Glioblastoma,wildtype,no-deletion,absent,hemizygous deletion,hemizygous deletion,wildtype,mutant,wildtype,wildtype,absent,wildtype,absent,wildtype,absent,absent,absent,79.8,unmethylated
+SNU27,14,2,Female,47,Glioblastoma,wildtype,no-deletion,absent,hemizygous deletion,hemizygous deletion,mutant,wildtype,wildtype,mutant,absent,wildtype,absent,wildtype,absent,absent,absent,78.4,methylated
+SNU33,16,2,Male,64,Glioblastoma,wildtype,no-deletion,absent,hemizygous deletion,absent,wildtype,wildtype,wildtype,wildtype,amplification,wildtype,absent,wildtype,absent,absent,absent,73.8,methylated
+SNU25,18,2,Male,57,Glioblastoma,wildtype,no-deletion,absent,absent,hemizygous deletion,wildtype,mutant,mutant,wildtype,absent,mutant,hemizygous deletion,wildtype,hemizygous deletion,absent,absent,74,methylated
+SNU18,20,3,Male,45,Glioblastoma,wildtype,no-deletion,amplification,hemizygous deletion,absent,wildtype,mutant,wildtype,wildtype,absent,wildtype,absent,mutant,absent,absent,absent,30.2,methylated
+SNU21,23,6,Female,64,Glioblastoma,wildtype,no-deletion,amplification,homozygous deletion,hemizygous deletion,wildtype,mutant,wildtype,wildtype,absent,wildtype,hemizygous deletion,wildtype,absent,absent,absent,48.6,methylated
+SNU23,29,1,Female,71,Glioblastoma,wildtype,no-deletion,amplification,homozygous deletion,hemizygous deletion,wildtype,mutant,wildtype,wildtype,absent,wildtype,absent,wildtype,absent,absent,absent,35.8,methylated
+SNU43,30,1,Male,55,Glioblastoma,wildtype,no-deletion,amplification,homozygous deletion,hemizygous deletion,wildtype,mutant,wildtype,wildtype,absent,wildtype,absent,wildtype,absent,absent,mutant,29.2,unmethylated
+SNU51,31,2,Female,65,Glioblastoma,wildtype,no-deletion,amplification,absent,absent,wildtype,mutant,wildtype,mutant,absent,wildtype,absent,wildtype,absent,absent,mutant,45.8,methylated
