@@ -1,0 +1,59 @@
+,normal,public,SNUH,SNUH_FFPE
+Art1,3,3,3.25,3.25
+Art2,2,2,2,2.5
+Art3,2,2,2.5,2.5
+AstroAQP1,4,4,4.5,5
+AstroPLCG1,2,2,3,3.5
+AstroSERPINI2,2,2,3.5,4
+Bcell,3.5,1,3.75,1.5
+Bcell_plasma,2,2,3,3
+Endo_cap,5,5,5.5,7
+CD4,2,2,2,4
+CD8,1,1,1,1.5
+CD8_6_1_3,2,2,2,2.5
+DC,2,2,2,3.5
+FBMC,2,2,2,1.5
+Fibroblast,1.5,1.5,1.5,2
+gbmEndo_9_1,2,2,3,3.5
+gbmEndo_9_1a,3.5,3.5,3.5,3.5
+gbmEndo_9_3,2.5,2.5,2.5,2.5
+gbmEndo_9_4,2,2,2,4.5
+gbmEndoPeri_1,3,3,4,4
+gbmEndoPeri_2,3,3,4,4
+gbmFib_4,2,2,2.75,3
+gbmFib_5,3,3,4,4
+gbmFib_6,3,3,3,4
+gbmPeri,5,5,6,7
+Granulocyte,2,2,2,4
+Mac_5_1_2,2,2,3,4
+Mac_5_1_3 ,3,3,3,4.5
+Mac_prolif ,2.5,2.5,3,4
+Mg_1_1 ,2.5,2.5,2.5,3
+Mg_1_3 ,1,1,3,4
+Mg_prolif ,2,2,2,3
+DC_mig,3,3,3,3.5
+Monocyte ,2,2,1.5,3
+Neurons_Ex,1,1.5,2.5,2.5
+Neurons_In,1.5,1.5,2,2.5
+NKT,1,1,0.75,1
+Monocyte_Nc,2.5,2.5,3,3.5
+Oligo_2_1,6,6,6,6
+Oligo_2_2,3,3,3.5,4.5
+Oligo_2_3_1,4,4,4,5
+Oligo_2_3_2,5,5,5,5
+OPC,2.5,2.5,2.5,3.5
+Pericyte,1,1,2,2
+RBC,5,5,5,5
+SMC,2.5,2.5,3,3.5
+Tcell_prolif,3,3,3.25,3.25
+TC_AC,5,5,5.5,5.5
+TC_mesh,5,5,5,5
+TC_mesnh,6,6,6,5.5
+TC_MTC,6,6,6,2.5
+TC_NPC,4,4,3.5,4
+TC_oligo,5,5,5,5
+TC_OPC,4,4,4,5
+TC_prolif,4,4,4,4
+Treg,1,1,1.25,1.5
+Venous,1,1,2,2.5
+Venule,1.5,1.5,2.5,3
