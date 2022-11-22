@@ -5,6 +5,7 @@ Glioblastoma (GBM) is a highly plastic ecosystem where complex interplay between
 Tools used:
 
 Interactive heatmap for Ligand-Receptor interactions: https://nameetashah.shinyapps.io/Heatmap/
+
 RCCv2: https://github.com/nameetas/RCCv2
 
 Data availability:
