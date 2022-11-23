@@ -10,3 +10,7 @@ RCCv2: https://github.com/nameetas/RCCv2
 
 Data availability:
 Please contact <nameeta.shah@gmail.com> to access the data.
+
+Supplementary files:
+
+[Supplementary File 1](https://drive.google.com/file/d/1U6udzEqgecvUnRj2QAxlSQEtUiWuQCQI/view?usp=share_link)
