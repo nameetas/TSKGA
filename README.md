@@ -10,8 +10,8 @@ RCCv2: https://github.com/nameetas/RCCv2
 
 Data availability:
 All the datasets can be downloaded or explored <a href = "http://gbmvisium.snu.ac.kr/">here</a>.
-http://gbmvisium.snu.ac.kr/
-Please contact <nameeta.shah@gmail.com> to access the data.
+
+In case of any queries please contact <nameeta.shah@gmail.com>.
 
 Supplementary files:
 
