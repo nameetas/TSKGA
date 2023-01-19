@@ -4,19 +4,10 @@ Glioblastoma (GBM) is a highly plastic ecosystem where complex interplay between
 
 Tools used:
 
-Interactive heatmap for Ligand-Receptor interactions: https://nameetashah.shinyapps.io/Heatmap/
-
 RCCv2: https://github.com/nameetas/RCCv2
 
 Data availability:
+
 All the datasets can be downloaded or explored <a href = "http://gbmvisium.snu.ac.kr/">here</a>.
 
 In case of any queries please contact <nameeta.shah@gmail.com>.
-
-Supplementary files:
-
-[Supplementary File 1](https://drive.google.com/file/d/1U6udzEqgecvUnRj2QAxlSQEtUiWuQCQI/view?usp=share_link)
-
-[Supplementary File 2](https://drive.google.com/file/d/1u3Gw7MBHgDwZtvvCZyZxegjeb7D0JqEa/view?usp=share_link)
-
-Bulk RNA-seq count data is provided in the data directory
