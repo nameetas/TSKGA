@@ -1,8 +1,7 @@
 library(Seurat)
-
-#The seurat object can be downloaded from the UCSC browser or the data repository website.
 obj = readRDS('/media/user/disk21/completeAnalysis/visium_15Sept/visiumObj_20Sept.rds')
-meta = read.csv('/media/user/disk21/completeAnalysis/cellbrowser/Spatial-Data/meta_visium.csv', row.names = 1)
+meta = read.table('/media/user/disk21/completeAnalysis/cellbrowser/Spatial-Data/meta_visium.csv', row.names = 1,
+                  sep = '\t', header = T)
 
 obj@meta.data = meta
 
@@ -24,3 +23,9 @@ p = p +
   theme(axis.text = element_text(color = 'black', size = 20))
 print(p)
 dev.off()  
+
+library(ggplot2)
+
+ggplot(meta, aes(x = AF_ivy, y = inferCNV, fill = AF_ivy)) + geom_boxplot() + 
+  RotatedAxis() + NoLegend() + 
+  geom_hline(yintercept = c(100, 150), linetype = 'dashed')
