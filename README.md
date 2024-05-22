@@ -4,7 +4,7 @@ Glioblastoma (GBM) is a dynamic ecosystem with high plasticity where the complex
 
 # Data exploration:
 
-[<img src = "file:///media/user/disk31/website/images/Fig1.jpg" width="50%">](https://www.youtube.com/watch?v=wgA2_yQMOpM "Human GBM Atlas")
+[<img src = "https://gbmvisium.snu.ac.kr/images/Fig1.jpg" width="50%">](https://www.youtube.com/watch?v=wgA2_yQMOpM "Human GBM Atlas")
 
 
 
@@ -14,6 +14,6 @@ RCCv2: https://github.com/nameetas/RCCv2
 
 Data availability:
 
-All the datasets can be downloaded or explored <a href = "http://gbmvisium.snu.ac.kr/">here</a>.
+All the datasets can be downloaded or explored <a href = "https://gbmvisium.snu.ac.kr/">here</a>.
 
 In case of any queries please contact <nameeta.shah@gmail.com>.
