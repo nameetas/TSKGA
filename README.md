@@ -6,7 +6,7 @@ Glioblastoma (GBM) is a dynamic ecosystem with high plasticity where the complex
 
 # Data exploration:
 
-[![Alt text for broken image link](assets/logo.png)](https://www.youtube.com/watch?v=wgA2_yQMOpM)
+[![Slide 16_9 - 2 (1)](https://github.com/nameetas/TSKGA/assets/41729594/9a8b0036-06c5-4c63-9ae6-85de039099e5)](https://www.youtube.com/watch?v=wgA2_yQMOpM)
 
 [Video showing exploration of scRNA-seq, CITE-seq, and Visium spatial transcriptome datasets](https://www.youtube.com/watch?v=wgA2_yQMOpM)
 
