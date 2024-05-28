@@ -4,7 +4,7 @@ Glioblastoma (GBM) is a dynamic ecosystem with high plasticity where the complex
 
 # Data exploration:
 
-[<img src = "https://gbmvisium.snu.ac.kr/images/Fig1.jpg" width="50%">](https://www.youtube.com/watch?v=wgA2_yQMOpM "Human GBM Atlas")
+[<img src = "[https://gbmvisium.snu.ac.kr/images/Fig1.jpg](https://drive.google.com/file/d/1sHCUTfXwos7VlWZC0mGz_vugmF637e5i/view?usp=sharing)" width="50%">](https://www.youtube.com/watch?v=wgA2_yQMOpM "Human GBM Atlas")
 
 
 
