@@ -1,8 +1,19 @@
 # A spatially resolved human glioblastoma atlas reveals distinct cellular and molecular patterns of anatomical niches
 
-Glioblastoma (GBM) is a dynamic ecosystem with high plasticity where the complex interplay between different cellular components contributes to disease progression. Although single-cell RNA (scRNA)-seq has revealed remarkable cellular heterogeneity of GBM, the spatial organization of its diverse cell types is currently lacking. Here we present a comprehensive dataset of 115,914 spatial transcriptomes across 32 tissue sections of genotyped glioma samples. We present spatial maps of 56 fine-grained cellular components, including previously unrecognized oligodendrocyte subtypes and their interactive networks within each anatomical niche. Additionally, we utilized Xenium in situ technology to generate subcellular resolution spatial transcriptomic data, enhancing our understanding of GBM at a granular level. Our data provides novel insights into the cellular architecture of GBM. This valuable and openly shared resource will help develop new and effective combinatorial therapies to target multiple niches simultaneously to improve patient outcomes.
+Glioblastoma (GBM) is a highly aggressive brain tumor characterized by extreme cellular heterogeneity and poor clinical outcomes. Although single-cell analyses have uncovered diverse tumor and stromal cell states, their spatial architecture within the tumor microenvironment is still insufficiently defined. Here we present a multi-modal, spatially resolved atlas of human GBM by integrating spatial transcriptomics from both fresh frozen and FFPE tissue, matched single cell transcriptomic and proteomic data, and subcellular resolution in situ profiling. Using a custom 348 gene panel enriched for vascular markers, we map previously unrecognized GBM-associated endothelial, pericyte, and fibroblast states, and uncover their niche-specific associations with malignant and immune compartments. Notably, we identified a distinct oligodendrocyte subset confined to core and perivascular regions, characterized by transcriptional signatures predictive of recurrence and adverse clinical outcome. Our publicly accessible atlas provides a high-resolution framework for investigating GBM spatial biology and offers a resource for identifying spatially restricted therapeutic vulnerabilities.
 
-![Fig1](https://github.com/nameetas/TSKGA/assets/41729594/c334a43d-dd1e-4824-a9d3-f7931a00e527)
+The pre-print of the manuscript can be found [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC10639919/).
+
+![Figure1](https://github.com/user-attachments/assets/b381fe05-b8c9-4cdf-bdd5-a414635259ef)
+
+#Data Availability
+
+Raw data generated in this study will be made available upon request. Processed data and interactive browsers can be accessed at [here](https://gbmvisium.snu.ac.kr).  The single-cell and CITE-seq data can be explored [here](https://multiomic-gbm.cells.ucsc.edu/). All code and accompanying video tutorials have been deposited in GitHub (https://github.com/nameetas/TSKGA). Spatial datasets (Visium, Xenium, IHC, both our cohort and public datasets) are available at https://www.amaranth-insights.com. The user can login using the following credentials:
+Email: amaranthinsights@gmail.com
+Password: password@123
+Additional information and resources are available from the corresponding authors upon request.
+
+
 
 # Data exploration:
 
