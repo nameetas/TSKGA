@@ -6,12 +6,23 @@ The pre-print of the manuscript can be found [here](https://pmc.ncbi.nlm.nih.gov
 
 ![Figure1](https://github.com/user-attachments/assets/b381fe05-b8c9-4cdf-bdd5-a414635259ef)
 
-#Data Availability
-
-Raw data generated in this study will be made available upon request. Processed data and interactive browsers can be accessed at [here](https://gbmvisium.snu.ac.kr).  The single-cell and CITE-seq data can be explored [here](https://multiomic-gbm.cells.ucsc.edu/). All code and accompanying video tutorials have been deposited in GitHub (https://github.com/nameetas/TSKGA). Spatial datasets (Visium, Xenium, IHC, both our cohort and public datasets) are available at https://www.amaranth-insights.com. The user can login using the following credentials:
-Email: amaranthinsights@gmail.com
-Password: password@123
-Additional information and resources are available from the corresponding authors upon request.
+## :bar_chart: Data Availability
+- **Raw Data**
+  Raw data generated in this study will be made available upon request.
+- **Spatial Transcriptomics & Interactive Browsers**
+  Explore our spatial transcriptome and single-cell datasets via the following portals:
+  - [SNUH-GliomaAtlas (GBM Visium)](https://gbmvisium.snu.ac.kr/) – A spatially resolved glioblastoma atlas featuring detailed transcriptomic maps across tissue sections.
+  - [UCSC Multi-Omic GBM Browser](https://multiomic-gbm.cells.ucsc.edu/) – A comprehensive portal for exploring integrated multi-omic glioblastoma datasets.
+- **Code & Video Tutorials**
+  All analysis code and walkthrough tutorials are available on GitHub:
+  :point_right: [github.com/nameetas/TSKGA](https://github.com/nameetas/TSKGA)
+- **Spatial Datasets (Visium, Xenium, IHC; Our Cohort & Public Data)**
+  Available at: [Amaranth Insights](https://www.amaranth-insights.com)
+  **Login Credentials**:
+  - **Email**: `amaranthinsights@gmail.com`
+  - **Password**: `password@123`
+- **Additional Materials**
+  Further information and resources are available from the corresponding authors upon request.
 
 
 
