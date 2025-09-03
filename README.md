@@ -15,7 +15,7 @@ The pre-print of the manuscript can be found [here](https://pmc.ncbi.nlm.nih.gov
   - [UCSC Multi-Omic GBM Browser](https://multiomic-gbm.cells.ucsc.edu/) – A comprehensive portal for exploring integrated multi-omic glioblastoma datasets.
 - **Code & Video Tutorials**
   All analysis code and walkthrough tutorials are available on GitHub:
-  :point_right: [github.com/nameetas/TSKGA](https://github.com/nameetas/TSKGA)
+  👉 [TSKGA Repository](https://github.com/nameetas/TSKGA)
 - **Spatial Datasets (Visium, Xenium, IHC; Our Cohort & Public Data)**
   Available at: [Amaranth Insights](https://www.amaranth-insights.com)
   **Login Credentials**:
