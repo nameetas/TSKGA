@@ -16,11 +16,19 @@ The pre-print of the manuscript can be found [here](https://pmc.ncbi.nlm.nih.gov
 - **Code & Video Tutorials**
   All analysis code and walkthrough tutorials are available on GitHub:
   👉 [TSKGA Repository](https://github.com/nameetas/TSKGA)
-- **Spatial Datasets (Visium, Xenium, IHC; Our Cohort & Public Data)**
-  Available at: [Amaranth Insights](https://www.amaranth-insights.com)
-  **Login Credentials**:
-  - **Email**: `amaranthinsights@gmail.com`
-  - **Password**: `password@123`
+- **Spatial Datasets (Visium, Xenium, IHC; Our Cohort & Public Data)**  
+  Available at: [Amaranth Insights](https://www.amaranth-insights.com)  
+
+  **Login Credentials**  
+  - **Email:** `amaranthinsights@gmail.com`  
+  - **Password:** `password@123`  
+
+  **Workspace & Project Details**  
+  - **Tenant Name:** `Spatial Glioblastoma Atlas`  
+    - You can verify the tenant by clicking the **workspace panel** next to the **Go to the viewer** button on the top right.  
+  - **Project Name:** `Glioma manuscript`  
+
+    
 - **Additional Materials**
   Further information and resources are available from the corresponding authors upon request.
 
